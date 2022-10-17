@@ -1,5 +1,6 @@
 [![Run unit](https://github.com/mwhitemfldm/ci/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/mwhitemfldm/ci/actions/workflows/unit-tests.yml)
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/mwhitemfldm/ci?branch=main)](https://bettercodehub.com/)
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
