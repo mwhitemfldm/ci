@@ -1,3 +1,5 @@
+[![Run unit](https://github.com/mwhitemfldm/ci/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/mwhitemfldm/ci/actions/workflows/unit-tests.yml)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
