@@ -9,6 +9,7 @@ Welcome to CI Course's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   quickstart
 
 Hello World!
 
